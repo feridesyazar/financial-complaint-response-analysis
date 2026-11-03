@@ -10,7 +10,6 @@ How can financial-services teams learn from consumer complaints, and can structu
 
 This Data Science case study uses public records from the **Consumer Financial Protection Bureau (CFPB)**. It combines **Exploratory Data Analysis (EDA)** with an interpretable **Logistic Regression** classifier to identify complaint patterns and evaluate reported closure outcomes.
 
-The complete code, charts, and explanations are in [Financial_Complaint_Response_Analysis.ipynb](Financial_Complaint_Response_Analysis.ipynb).
 
 ## Business Questions
 
